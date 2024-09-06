@@ -2,7 +2,7 @@
   <img src="assets/logo/web3js.jpg" width="300" alt="web3.js" />
 </p>
 
-# Web3.js
+# BlockChain-Web3.js
 
 [![Dependency Status][downloads-image]][npm-url] ![Unit Test Coverage](https://img.shields.io/codecov/c/github/web3/web3.js/4.x?label=unit%20test%20coverage)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/web3/web3.js/4.x?label=commit%20activity%20on%204.x)
